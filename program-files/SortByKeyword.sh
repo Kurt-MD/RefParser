@@ -2,7 +2,7 @@
 echo "What keyword would you like parse through?"
 read -p "Enter keyword here: " keyword
 
-grep  -i "$keyword" .unparsedreflist.txt > parsedreflist.txt
+grep  -i "$keyword" .unparsedreflist.txt >> parsedreflist.txt
 sort parsedreflist.txt | uniq
 
 echo "What else would you like to parse through?"
