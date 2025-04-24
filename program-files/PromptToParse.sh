@@ -23,7 +23,8 @@ then
 	echo "You are done parsing through your reference list."
 	./program-files/PromptToAppend.sh
 
-elif [[ desiredfilter -ge 3 ]]; then
+elif [[ desiredfilter -ge 3 ]]
+then
 	echo "Error: please enter a valid response."
 	./program-files/PromptToParse.sh
 fi
