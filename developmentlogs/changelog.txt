@@ -1,8 +1,0 @@
-4-22-2025
-- added SortByKeyword and made it fully functioning
-- changed text to better instruct the user and/or reflect each step
-- removed the "EnterFile.sh" file and put scripts into RefParser.sh itself
-
-4-16-2025
-- fixed user file input, changed prompted text
-- added program files for sorting by date and keyword, and prompting to append to existing list
