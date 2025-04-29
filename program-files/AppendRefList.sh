@@ -5,7 +5,7 @@ read -p "Enter the file name here, including the .txt file extension: " existing
 
 if [[ -f $existingreflist ]]; then
 	echo "The file $existingreflist was found! Tidying up..."
-	cat .filteredreflist > $existingreflist
+	cat .filteredreflist >> $existingreflist
 	sort $savedreflist | uniq
 	rm .unfilteredreflist.txt
 	rm .filteredreflist.txt

@@ -20,7 +20,7 @@ fi
 if [[ saveorappend -eq 3 ]]; then
 	echo "Returning to the previous menu... What would you like to do?"
 	./program-files/PromptToFilter.sh
-elif [[ saveorappend -ge 3 ]]; then
+elif [[ saveorappend -gt 3 ]]; then
 	echo "Error: please enter a valid response."
 	./program-files/PromptToSave.sh
 fi
