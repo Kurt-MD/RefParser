@@ -14,7 +14,6 @@ else
 	echo "The file $existingreflist was not found. Please make sure of the following:
 	- The .txt file is in the same directory as this program.
 	- There are no spaces in the file name.
-	- The file is a .txt file.
-	"
+	- The file is a .txt file."
 	./program-files/AppendRefList.sh
 fi
