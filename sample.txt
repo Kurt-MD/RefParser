@@ -1,0 +1,12 @@
+Ellingwood, J., & Walia, A. S. (2025, April 20). Mastering grep with regular expressions: Guide for efficient text search. Digital Ocean. Retrieved April 28, 2025, from https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux
+Geeks for Geeks. (2024, January 2). Bash scripting - while loop. Retrieved April 28, 2025, from https://www.geeksforgeeks.org/bash-scripting-while-loop/
+Geeks for Geeks. (2025, April 11). AWK command in Unix/Linux with examples. Retrieved April 28, 2025, from https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
+Haddock, S. H. D., & Dunn, C. W. (2010). Practical computing for biologists. Sinauer Associates.
+Kadima, S. (2023, April 24). Shell scripting: Comparison operators and if statements. Medium. Retrieved April 28, 2025, from https://medium.com/@kadimasam/shell-scripting-comparison-operators-and-if-statements-9e0277fd60b8
+The Open Group. (2018). Utilities: Awk. Retrieved April 28, 2025, from https://pubs.opengroup.org/onlinepubs/9699919799/utilities/awk.html
+Salerno, P. (2025, January 16). Computing for Biologists | SMCM Spring 2025. Retrieved April 28, 2025, from https://pesalerno.github.io/computing_SP25/
+Website updated throughout the semester.
+Sublime HQ. (n.d.). Sublime text: Text editing, done right. Retrieved April 28, 2025, from https://www.sublimetext.com/
+Walia, A. S. (2025, April 14). Shell script if else: Comprehensive guide with examples. Digital Ocean. Retrieved April 28, 2025, from https://www.digitalocean.com/community/tutorials/if-else-in-shell-scripts
+Walia, A. S., & Kumar, P. (2025, February 13). Mastering grep command in Linux/Unix: A beginner's tutorial. Digital Ocean. Retrieved April 28, 2025, from https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
+Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLoS computational biology, 13(6), e1005510. https://doi.org/10.1371/journal.pcbi.1005510
