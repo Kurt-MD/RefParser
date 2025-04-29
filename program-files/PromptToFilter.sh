@@ -2,11 +2,10 @@
 
 echo "Type the number corresponding to the option.
 1. Filter by publishing year of the reference, within a range.
-2. Filter by keyword present in the referenced article's title.
+2. Filter by keyword or keyphrase present in the referenced article's title.
 3. Switch to working with a different reference list.
 4. Work with an additional reference list.
-5. Save the current filtered reference list.
-"
+5. Save the current filtered reference list."
 read -p 'Enter response here: ' desiredfilter
 
 if [[ desiredfilter -eq 1 ]]
@@ -38,8 +37,8 @@ then
 	echo "You are done parsing through your reference list."
 	./program-files/PromptToSave.sh
 
-elif [[ desiredfilter -ge 5 ]]
+elif [[ desiredfilter -gt 5 ]]
 then
 	echo "Error: please enter a valid response."
-	./program-files/PromptToParse.sh
+	./program-files/PromptToFilter.sh
 fi

@@ -1,7 +1,6 @@
 #!/bin/bash
 
 echo "Would you like to save your filtered reference list as a new one, or append it to an existing reference list?
-
 Type the number corresponding to the option.
 1. Save the current filtered reference list.
 2. Append the filtered reference list to an existing one.
